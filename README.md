@@ -7,7 +7,7 @@ Make sure you have the following installed:
 ->Git installed
 
 CLONE THE REPOSITORY:
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/ramishamukhtar/user-management.git
 cd your-repo
 
 START CONTAINERS:
@@ -21,9 +21,7 @@ Run inside the PHP container:
 docker-compose exec php php yii migrate
 
 ACCESS THE APPLICATION:
-Frontend:
-Backend:
-
+Frontend: http://localhost:8080/
 
 
 
